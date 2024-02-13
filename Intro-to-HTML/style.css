@@ -7,3 +7,10 @@ li p{
     color: dimgrey;
     }
     
+header{
+    height: 400px;
+}
+
+main{
+    width:1000px;
+}
