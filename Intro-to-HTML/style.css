@@ -20,13 +20,21 @@ main{
 }
 h1.h-style{
     font-family: sans-serif;
-    font-size: 1.33rem;
 }
 
 h4.h-style{
     font-family: monospace;
-    font-size: 18px;
+    font-size: 1.3rem;
 }
 #about-site{
     color: grey;
+}
+
+#handle{
+    font-size: 28px;
+    color: black;
+}
+
+#handle:hover{
+    color: orange;
 }
