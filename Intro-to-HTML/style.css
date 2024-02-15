@@ -7,7 +7,7 @@ li p{
     color: dimgrey;
     }
     
-header{
+.main-header{
     height: 400px;
 }
 
@@ -17,6 +17,15 @@ main{
 
 .h-style{
     color: darkslategrey;
+}
+h1.h-style{
+    font-family: sans-serif;
+    font-size: 1.33rem;
+}
+
+h4.h-style{
+    font-family: monospace;
+    font-size: 18px;
 }
 #about-site{
     color: grey;
