@@ -14,3 +14,10 @@ header{
 main{
     width:1000px;
 }
+
+.h-style{
+    color: darkslategrey;
+}
+#about-site{
+    color: grey;
+}
