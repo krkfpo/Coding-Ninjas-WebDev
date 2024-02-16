@@ -12,7 +12,7 @@ li p{
 }
 
 main{
-    width:1000px;
+    width:90vw;
 }
 
 .h-style{
@@ -37,4 +37,15 @@ h4.h-style{
 
 #handle:hover{
     color: orange;
+}
+img{
+    width:100%
+}
+
+#logo{
+    width:210px;
+}
+
+#site-title{
+    font-size: 1.8rem;
 }
