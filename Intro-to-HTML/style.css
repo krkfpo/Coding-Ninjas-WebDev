@@ -13,6 +13,10 @@ li p{
 
 main{
     width:90vw;
+    border: dashed 5px  #ff6060;
+    border-left: 0px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
 }
 
 .h-style{
